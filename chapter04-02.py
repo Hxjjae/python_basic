@@ -129,7 +129,7 @@ name2 = "Aceman"
 print('Reversed', reversed(name2))
 print('List', list(reversed(name2)))
 print('Tuple', tuple(reversed(name2)))
-print('set', set(reversed(name2)))
+print('set', set(reversed(name2))) # 순서 X
 
 
 
